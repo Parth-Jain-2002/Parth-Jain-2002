@@ -1,5 +1,12 @@
-### Hi there 👋
-
+# :wave: Hey There !! I'm <a href = "https://parth-jain-02.web.app/">**Parth Jain**</a>
+- 🔭 I am currently a CS sophomore at IIT Ropar. 
+- 🌱: I am interested in Web Development and Competitive Programming.
+- 💻: I am proficient in C, C++, HTML, CSS, JavaScript, React.js and Node.js.
+- 🌐: Personal Website: https://parth-jain-02.web.app/
+- ✨: Looking forward to collaborate on some amazing projects
+- 🤝: Let's get in touch
+<br><br><a href="https://www.linkedin.com/in/parth-jain-7148061bb/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.exclaimer.com/Handbook%20Images/linkedin-icon_64x64.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+<a href="mailto:parthljain2002@gmail.com"> <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 <!--
 **Parth-Jain-2002/Parth-Jain-2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +21,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## :trophy: My Github Stats <br>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=parth-jain-2002&show_icons=true&theme=tokyonight) <br>
