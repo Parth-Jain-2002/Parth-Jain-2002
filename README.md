@@ -1,6 +1,6 @@
 # :wave: Hey There !! I'm <a href = "https://parth-jain-02.web.app/">**Parth Jain**</a>
 - 🔭 I am currently a CS sophomore at IIT Ropar. 
-- 🌱: I am interested in Web Development and Competitive Programming. Interested in exploring fields like AR/VR and robotics.
+- 🌱: I am interested in Web Development, CP and fields like AR/VR and robotics. 
 - 💻: I am proficient in C, C++, HTML, CSS, JavaScript, React.js and Node.js.
 - 🌐: Personal Website: https://parth-jain-02.web.app/
 - ✨: Looking forward to collaborate on some amazing projects
