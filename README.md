@@ -35,5 +35,14 @@ Here are some ideas to get you started:
 <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 
-## :trophy: My Github Stats <br>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=parth-jain-2002&show_icons=true&theme=tokyonight) <br>
+# 🏆 My Github Stats:
+
+<table align='center'>
+  <tr>
+   <td><img src="https://github-readme-stats.vercel.app/api?username=Parth-Jain-2002&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Anant Prakash Singh" />
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Parth-Jain-2002&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Anant Prakash Singh" /></td>
+  </tr>
+</table>
+
+<div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Parth-Jain-2002&theme=dark" alt="TheViking" /></p>
