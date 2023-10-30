@@ -1,9 +1,9 @@
 # :wave: Hey There !! I'm <a href = "https://parth-jain.netlify.app/">**Parth Jain**</a>
-- 🔭 I am currently a third year CSE undergraduate at IIT Ropar. 
-- 🌱: I am interested in Web Development, Game Development, CP and fields like AR/VR and robotics. 
+- 🔭 I am currently a fourth year CSE undergraduate at IIT Ropar. 
+- 🌱: I am interested in Web Development, Game Development, CP, and fields like AR/VR and robotics. 
 - 💻: I am proficient in C, C++, C#, Unity, HTML, CSS, JavaScript, React.js and Node.js.
 - 🌐: Personal Website: https://parth-jain.netlify.app/ 
-- ✨: Looking forward to collaborate on some amazing projects
+- ✨: Looking forward to collaborating on some amazing projects
 - 🤝: Let's get in touch
 <br><br><a href="https://www.linkedin.com/in/parth-jain-7148061bb/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.exclaimer.com/Handbook%20Images/linkedin-icon_64x64.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 <a href="mailto:parthljain2002@gmail.com"> <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
