@@ -31,4 +31,4 @@
 </table>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Parth-Jain-2002&theme=dark" alt="TheViking" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Parth-Jain-2002&theme=dark" alt="ParthJain2002" /></p>
