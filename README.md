@@ -1,6 +1,6 @@
 # :wave: Hey There !! I'm <a href = "https://parth-jain.netlify.app/">**Parth Jain**</a>
-- 🔭 I am currently a fourth year CSE undergraduate at IIT Ropar. 
-- 🌱: I am interested in Web Development, Game Development, CP, and fields like AR/VR and robotics. 
+- 🔭 I am a graduate from IIT Ropar and currently work as Software Engineer at Google. 
+- 🌱: I am interested in AI, Web Development, Game Development, CP, and fields like AR/VR and robotics. 
 - 💻: I am proficient in C, C++, C#, Unity, HTML, CSS, JavaScript, React.js and Node.js.
 - 🌐: Personal Website: https://parth-jain.netlify.app/ 
 - ✨: Looking forward to collaborating on some amazing projects
